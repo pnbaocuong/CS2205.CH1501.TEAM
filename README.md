@@ -16,10 +16,10 @@ Hoàn thành QT06: Mong đợi học và làm được gì - https://classroom.g
 Hoàn thành QT07: Góp ý cho phương pháp giảng dạy - https://classroom.google.com/u/0/c/MjU1MDMxNDMzMDk5/m/Mjg3NzczMTQ4NDEz/details
 
 ### QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
-https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT12:%20C%C3%81CH%20S%E1%BB%AC%20D%E1%BB%A4NG%20GOOGLE%20SCHOLAR
+https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT12.md
 
 ### QT20: CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?
-https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT20:%20CRITICAL%20THINKING%20-%20T%C6%AF%20DUY%20PH%E1%BA%A2N%20BI%E1%BB%86N%20L%C3%80%20G%C3%8C%3F
+https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT20.md
 
 ### QT21: CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN
-https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT21:%20C%C3%81C%20R%C3%80O%20C%E1%BA%A2N%20C%E1%BB%A6A%20T%C6%AF%20DUY%20PH%E1%BA%A2N%20BI%E1%BB%86N
+https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT21.md
