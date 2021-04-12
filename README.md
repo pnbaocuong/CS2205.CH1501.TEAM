@@ -23,3 +23,6 @@ https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT20.md
 
 ### QT21: CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN
 https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT21.md
+
+### PROPOSAL1:  Trường ĐH X muốn khắc phục tình trạng SV bỏ học nữa chừng và kêu gọi các đề xuất (proposal) để giải quyết tình trạng trên
+https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/PROPOSAL%231%20.docx
